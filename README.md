@@ -1,2 +1,2 @@
-# card_prices
+# card-prices
 Crawling card prices by using YugiohPrices API
